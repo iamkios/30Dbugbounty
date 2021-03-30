@@ -1,0 +1,23 @@
+Resources from which i studied :
+___________________________________________________________________________________________________________________________________________________________________
+https://pentester.land/cheatsheets/2018/11/02/open-redirect-cheatsheet.html
+https://book.hacktricks.xyz/pentesting-web/open-redirect
+
+https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html
+
+https://www.netsparker.com/blog/web-security/open-redirection-vulnerability-information-prevention/
+
+https://www.neuralegion.com/blog/open-redirect-vulnerabilities/
+https://muhammad-aamir.medium.com/open-redirect-vulnerability-found-using-link-parameter-5fc43e2ea8fd
+
+https://speakerdeck.com/shikarisenpai/crlf-and-openredirect-for-dummies?slide=5
+https://medium.com/@0xrishabh/open-redirect-to-account-takeover-e939006a9f24
+https://s0cket7.com/open-redirect-vulnerability/
+https://blog.detectify.com/2016/08/15/owasp-top-10-unvalidated-redirects-and-forwards-10/
+
+https://chawdamrunal.medium.com/lets-talk-about-open-redirect-vulnerability-815c1e6beb40
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Open%20Redirect
+
+https://www.google.com/search?q=pentestmonkey+csrf&rlz=1C1GCEA_enIN904IN904&sxsrf=ALeKk02UjRiVlWOLdXTgWZI_bxZPvM73yg%3A1617083243822&ei=a7tiYPrPMYOp3LUPjou-uAg&oq=pentestmonkey+csrf&gs_lcp=Cgdnd3Mtd2l6EAxQ3mpY9m5g2XloAHACeACAAbIEiAGyBJIBAzUtMZgBAKABAaoBB2d3cy13aXrAAQE&sclient=gws-wiz&ved=0ahUKEwi6scfCqNfvAhWDFLcAHY6FD4cQ4dUDCA0
+
