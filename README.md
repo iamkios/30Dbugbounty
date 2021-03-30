@@ -5,4 +5,4 @@ This is my learnings, resources, mindmaps, checklists and notes in 30 days of bu
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Day 1 :
-       open_redirect                                                                                           
+       https://github.com/iamkios/30Dbugbounty/blob/main/open_redirect                                                                                       
