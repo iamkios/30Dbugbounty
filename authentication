@@ -1,0 +1,37 @@
+following functionalities are affected in authentication related bugs:-
+1.registration page
+2.login page
+3.forgot password
+4.change password / password reset
+5.confirm email address
+6.OAUTH
+7.authenticated action bypass
+8.multifactor authentication like:-
+    1.otp
+    2.email me the code
+    3.satillite generator
+    4.sms / call
+    5.backup codes
+9.cookie based authentication vulnerabilities
+10.insecure transmission of credentials
+11.default credentials
+12.openredirect in oauth / authentication after process
+13.vulnerable remember password
+14.weak password policy
+15.weak security question answer
+16.username enumeration
+17.E-mail enumeration
+18.SAML configuration
+19.OpenID connect
+20.jwt / json web token
+21.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+attacking username / username enumeration :
+  usernames should be stored case insensitively  and  be  UNIQUE 
+  
+  
+attacking password block enumeration:-
+  disable cut ,copy and paste
+  password hints which lack sufficient entropy
+  password policy should be strong
+  
